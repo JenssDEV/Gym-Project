@@ -9,5 +9,7 @@ package com.TeamGorila.Main.DataBase;
  * @author JENS07
  */
 public class DBConnectionPHPMyAdmin {
-    
+    public static void main(String[] args) {
+        System.out.println("HOLA");
+    }
 }

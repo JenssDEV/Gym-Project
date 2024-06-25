@@ -27,9 +27,10 @@ public class main {
             app.start();
         });
     }
-    private void start(){
-        Main mainframe =new Main();
+
+    private void start() {
+        Main mainframe = new Main();
         mainframe.setVisible(true);
     }
-
+    
 }
