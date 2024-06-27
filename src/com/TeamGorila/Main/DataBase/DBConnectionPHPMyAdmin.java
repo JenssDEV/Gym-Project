@@ -12,6 +12,6 @@ import java.util.Scanner;
  */
 public class DBConnectionPHPMyAdmin {
     public static void main(String[] args) {
-        System.out.println("Aprendiendo solo el proceso de ramas");
+        System.out.println("porque ella me vuelve loca");
     }
 }
