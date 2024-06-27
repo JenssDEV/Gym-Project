@@ -12,6 +12,19 @@ import java.util.Scanner;
  */
 public class DBConnectionPHPMyAdmin {
     public static void main(String[] args) {
-        System.out.println("porque ella me vuelve loca");
+        Scanner scanner = new Scanner(System.in);
+        
+        System.out.print("Introduce un número entero positivo: ");
+        int n = scanner.nextInt();
+        
+        int suma = 0;
+        for (int i = 1; i <= n; i++) {
+            suma += i;
+        }
+        
+        System.out.println("La suma de los primeros " + n + " números naturales es: " + suma);
+        
+        scanner.close();
+    
     }
 }
