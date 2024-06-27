@@ -11,5 +11,7 @@ import java.util.Scanner;
  * @author JENS07
  */
 public class DBConnectionPHPMyAdmin {
-    
+    public static void main(String[] args) {
+        System.out.println("Aprendiendo solo el proceso de ramas");
+    }
 }
