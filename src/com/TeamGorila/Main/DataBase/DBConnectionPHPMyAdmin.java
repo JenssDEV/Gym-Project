@@ -12,6 +12,6 @@ import java.util.Scanner;
  */
 public class DBConnectionPHPMyAdmin {
     public static void main(String[] args) {
-        System.out.println("porque ella me vuelve loca");
+        System.out.println("hola mundo como estas");
     }
 }
